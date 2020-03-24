@@ -3,7 +3,7 @@
  Consumes CSV and inserts rows into SQLite database table
  
 ## Running the program 
- The run.bat file in /coding-challenge builds and runs the main class.
+ The run.bat file builds and runs the main class.
  
  Running the program outside of the batch file will require adding the JDBC to the classpath.
  
