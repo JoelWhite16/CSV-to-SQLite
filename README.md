@@ -1,4 +1,4 @@
-# Coding Challenge
+# CSV Coding Challenge
 ## Objective
  Consumes CSV and inserts rows into SQLite database table
  
